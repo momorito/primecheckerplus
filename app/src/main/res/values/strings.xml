@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">素数チェッカーPlus</string>
+    <string name="button_label">素数チェック</string>
+    <string name="button_label_share">結果をシェアする</string>
+    <string name="intro_message">調べたい数字を入力</string>
+    <string name="option_menu1">プライバシーポリシー</string>
+    <string name="option_menu2">終了</string>
+    <string name="calculate_now">計算中</string>
+    <string name="privacy_policy_URL">https://sites.google.com/view/tanikinaapps/プライバシーポリシー</string>
+
+    <string name="searchNearPrime">近くの素数を探す</string>
+
+    <string name="result_close">閉じる</string>
+    <string name="result_share">共有</string>
+    <string name="result_near">近くの素数を検索</string>
+</resources>
