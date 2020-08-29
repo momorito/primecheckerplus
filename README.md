@@ -1,2 +1,3 @@
-# primecheckerplus
-An android app Prime Checker Plus
+# 素数チェッカーPlus
+素数かどうか調べるアプリです。
+***
